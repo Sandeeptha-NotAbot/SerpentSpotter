@@ -1,0 +1,12 @@
+{
+    "features": {
+      "body": ["slender", "thick", "long", "short"],
+      "head": ["narrow", "broad", "triangular", "round", "flattened"],
+      "scales": ["smooth", "keeled"],
+      "colors": ["red", "black", "yellow", "green", "brown", "light brown", "white", "grey"],
+      "pattern": ["solid-colored", "stripes", "banded", "spotted", "blotched", "checkered"],
+      "eyes": ["round pupils", "slit pupils", "solid-colored pupils"],
+      "tail": ["rattle", "tapered", "blunt"],
+      "venom": ["venomous", "nonvenomous"]
+    }
+  } 
